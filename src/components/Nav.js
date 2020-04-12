@@ -1,5 +1,6 @@
 import React from 'react';
 import "../style/Nav.css"; 
+import SearchName from './SearchName';
 
 export default function Nav() {
     return (
@@ -20,7 +21,7 @@ export default function Nav() {
                     <div className="collapse navbar-collapse row" id="navbarNav">
 
                         <div className="search-area col-4">
-                            {}
+                            <SearchName />
                         </div>
                     </div>
                 </nav>

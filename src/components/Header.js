@@ -6,6 +6,7 @@ export default function Header() {
         <div>
             <div className="header">
                 <h1>Employee Directory</h1>
+                <p> Click on the column titles to sort by each</p>
             </div>            
         </div>
     )

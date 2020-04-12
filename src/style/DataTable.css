@@ -1,8 +1,0 @@
-th {
-    cursor: pointer;
-}
-
-th:hover {
-    color: #00B4CC;
-    font-style: italic;
-}

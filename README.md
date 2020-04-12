@@ -3,8 +3,9 @@ UU Bootcamp React project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Heroku Deployment
+## Deployment
 
+https://tuckerv.github.io/react-employee-directory/
 
 ## description
 
@@ -50,7 +51,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 * [License](#license)
 
 ## Installation
-Open the heroku app and interact with the page: 
+Open the app and interact with the page: 
+https://tuckerv.github.io/react-employee-directory/
 
 ## User Story
 
